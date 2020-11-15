@@ -5,7 +5,7 @@
   "ban": "51985493",
   "showInt": true,
   "inter": "99999999999999",
-  "forceupdate": false,
+  "forceupdate": true,
   "currentversion": 1,
   "pack": "com.tat.ssa",
   "updateurl": "market://details?id=com.",
