@@ -2,7 +2,7 @@
   "xvdoTask":true,
   "xvUsn": true,
   "xvShowAds": true,
-  "xvShowInt": true,
+  "xvShowInt": false,
   "xvShowBan": false,
   "xvShowAgres": true,
   "xvIdPubli": "3940256099942544",
