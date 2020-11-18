@@ -12,5 +12,6 @@
   "xvCurrentVersion": 2,
   "xvPack": "com.tat.ssa",
   "xvUpdateUrl": "https://www.google.com",
-  "xvUpdateUrlCatch": "https://www.google.com"
+  "xvUpdateUrlCatch": "https://www.google.com",
+  "xvMessage": "This is my message"
 }
