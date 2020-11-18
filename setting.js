@@ -11,6 +11,6 @@
   "xvForceUpdate": true,
   "xvCurrentVersion": 1,
   "xvPack": "com.tat.ssa",
-  "xvUpdateUrl": "market://details?id=com",
-  "xvUpdateUrlCatch": "https://www.wwwwwwwwww"
+  "xvUpdateUrl": "https://www.google.com",
+  "xvUpdateUrlCatch": "https://www.google.com"
 }
