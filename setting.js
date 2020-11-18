@@ -7,7 +7,7 @@
   "xvShowAgres": true,
   "xvIdPubli": "3940256099942544",
   "xvIdBan": "51985493",
-  "xvIdInter": "8691691433",
+  "xvIdInter": "1033173712",
   "xvForceUpdate": true,
   "xvCurrentVersion": 1,
   "xvPack": "com.tat.ssa",
