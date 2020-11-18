@@ -4,7 +4,7 @@
   "xvShowAds": true,
   "xvShowInt": true,
   "xvShowBan": true,
-  "xvCaa": "ca-app-pub-",
+  "xvCatch": "ca-app-pub-",
   "xvIdPubli": "3940256099942544",
   "xvIdBan": "51985493",
   "xvIdInter": "8691691433",
