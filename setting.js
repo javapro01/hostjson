@@ -1,4 +1,5 @@
 {
+  "xvdoTask":true,
   "xvUsn": true,
   "xvShowAds": true,
   "xvShowInt": true,
