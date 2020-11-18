@@ -3,7 +3,7 @@
   "xvUsn": true,
   "xvShowAds": true,
   "xvShowInt": true,
-  "xvShowBan": false,
+  "xvShowBan": true,
   "xvShowAgres": true,
   "xvIdPubli": "3940256099942544",
   "xvIdBan": "51985493",
