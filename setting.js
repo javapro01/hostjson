@@ -2,7 +2,7 @@
   "xvdoTask":true,
   "xvUsn": true,
   "xvShowAds": true,
-  "xvShowInt": true,
+  "xvShowInt": false,
   "xvShowBan": true,
   "xvCatch": "ca-app-pub-",
   "xvIdPubli": "3940256099942544",
