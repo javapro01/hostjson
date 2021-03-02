@@ -12,11 +12,11 @@
   "ree": "com.tencent.ig",
   "s1": "",
   "a1": false,
-  "a2": false,
+  "a2": true,
   "a3": false,
-  "b1": true,
+  "b1": false,
   "b2": true,
-  "b3": true,
+  "b3": false,
   "b4": true,
-  "b5": true
+  "b5": false
 }
